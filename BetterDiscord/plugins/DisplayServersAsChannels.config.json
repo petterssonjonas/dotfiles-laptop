@@ -1,0 +1,12 @@
+{
+	"amounts": {
+		"serverElementHeight": 32,
+		"serverListWidth": "90"
+	},
+	"changelog": {
+		"currentversion": "1.4.0"
+	},
+	"settings": {
+		"showGuildIcon": true
+	}
+}

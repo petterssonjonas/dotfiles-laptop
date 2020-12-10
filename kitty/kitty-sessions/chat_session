@@ -1,0 +1,30 @@
+layout tall
+
+new_tab Term
+launch fish
+
+new_tab Files
+launch hunter
+
+new_tab Calcurse
+launch calcurse
+
+new_tab TaskWarrior
+launch vit
+
+new_tab Mail
+launch neomutt
+
+new_tab Discord
+launch cordless
+
+new_tab Spotify
+launch spt
+
+new_tab CoinTop
+launch cointop
+
+new_tab bpytop
+launch bpytop
+
+

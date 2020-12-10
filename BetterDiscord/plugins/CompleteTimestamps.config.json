@@ -1,0 +1,25 @@
+{
+	"amounts": {
+		"maxDaysAgo": 0
+	},
+	"changelog": {
+		"currentversion": "1.4.8"
+	},
+	"choices": {
+		"timestampLang": "own"
+	},
+	"formats": {
+		"ownFormat": "$hour:$minute:$second"
+	},
+	"settings": {
+		"changeForChat": true,
+		"changeForEdit": true,
+		"cutSeconds": false,
+		"displayDate": true,
+		"displayTime": true,
+		"forceZeros": false,
+		"otherOrder": false,
+		"showInChat": true,
+		"showInEmbed": true
+	}
+}

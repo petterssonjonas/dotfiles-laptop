@@ -1,0 +1,6 @@
+export PATH="$PATH:$HOME/.local/bin"
+export EDITOR="nvim"
+export TERMINAL="kitty"
+export BROWSER="firefox"
+export LC_TIME="sv_SE.UTF-8"
+export LC_ALL="en_US.UTF-8"
