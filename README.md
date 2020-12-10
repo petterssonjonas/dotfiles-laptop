@@ -5,10 +5,23 @@ nvim requires vim-plug. Install it and :PlugInstall
 [(Neo)Vim Setup Screenshots](https://imgur.com/a/M9jpWJP)
 
 
+* Picom config requires aur/picom-jonaburg-git.
+
+
 * Qtile: Check out the config before running. You may wanna change a few things according to what you use.
 
 I use paru, not yay. Change the update command in the package widget (default "sudo pacman -Syu").
 Change myTerm to your terminal. For the neofetch config to work you need kitty and the very latest fish-git master or there will be a memory overflow.
+
+Only 6 workspaces are visible, remove "visible_groups or add more names".
+
+Color options for the bar and window borders:
+* All the gruvbox colors are defined in the config.
+* Change border at "border_focus", "border_normal"
+* Change colors by swapping the defined names (bg, bg0-4, fg0-4, colors by the numbers indicated as comments after list items.
+* in the widget.GroupBox, change colors[X] to the color you want.
+* The >/< images are in the images dir. Change the name of all the widget.Image accordingly. Either all the same or every other as i have done.
+
 
 Keybindings:
 * Swap window focus: mod+j k
